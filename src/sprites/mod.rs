@@ -41,9 +41,9 @@ pub const TREX_MIN_Y: i32 = 3;
 pub const CACTUS_Y: i32 = 35;
 
 // Movements - Adjust these values to redue/increase speed
-pub const TREX_VELOCITY: i32 = -10;
-pub const GRAVITY: i32 = 6;
-pub const OBSTACLE_VELOCITY: i32 = -14; // obstacles moving left side, so it is X-velocity
+pub const TREX_VELOCITY: i32 = -7;
+pub const GRAVITY: i32 = 7;
+pub const OBSTACLE_VELOCITY: i32 = -12; // obstacles moving left side, so it is X-velocity
 pub const OBSTACLE_GAP: i32 = 100;
 
 #[derive(Debug, PartialEq)]
