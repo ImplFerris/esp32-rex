@@ -17,7 +17,13 @@ Dinosaur Game written in Rust for the ESP32 with an OLED display, using the Emba
 | GND      | GND pin of OLED         |
 | GPIO 4   | One side of push button |
 | GND      | Other side of push button |
+
  
+## Example Video
+
+The video doesn't fully capture the visual quality. Here's a preview of the game.  
+
+https://github.com/user-attachments/assets/acdab42f-2e12-4f43-b19c-63191b82fcd1
 
 ## TODO
 1. Implement running illusion for the T-Rex
